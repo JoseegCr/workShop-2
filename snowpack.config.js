@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'workShop-2',
+    baseUrl: '/workShop-2',
   },
 }
